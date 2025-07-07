@@ -1,0 +1,301 @@
+,FIELD1,prediction_id,feature1,feature2,feature3,feature4,prediction_scores,actual_scores,prediction_ts
+0,0,57437c5d-0cd2-48bf-aa91-379302fd0fe4,40,96,42,88,"[{'class_name': 'first_class', 'score': 0.5044088627000001}
+ {'class_name': 'business_class', 'score': 0.3688503145}
+ {'class_name': 'economy_class', 'score': 0.1267408228}]","[{'class_name': 'first_class', 'score': 1.0}]",1749146179
+1,1,518880f9-55d2-43af-87a1-77b89c8ffa05,79,90,34,22,"[{'class_name': 'first_class', 'score': 0.350681868}
+ {'class_name': 'business_class', 'score': 0.001048163}
+ {'class_name': 'economy_class', 'score': 0.648269969}]","[{'class_name': 'business_class', 'score': 1.0}]",1749172361
+2,2,355da8b0-8343-4be9-b9b9-72b8b4aafbe1,90,41,67,83,"[{'class_name': 'first_class', 'score': 0.013206122}
+ {'class_name': 'business_class', 'score': 0.4598026416}
+ {'class_name': 'economy_class', 'score': 0.5269912364}]","[{'class_name': 'business_class', 'score': 1.0}]",1749198543
+3,3,806ea4b9-3c6a-48ff-a092-d62886f31415,1,20,77,11,"[{'class_name': 'first_class', 'score': 0.8000057316}
+ {'class_name': 'business_class', 'score': 0.1510401292}
+ {'class_name': 'economy_class', 'score': 0.048954139300000005}]","[{'class_name': 'business_class', 'score': 1.0}]",1749224725
+4,4,1696bef7-8da7-432a-9999-a6ddf44b3c01,56,75,56,13,"[{'class_name': 'first_class', 'score': 0.3092817529}
+ {'class_name': 'business_class', 'score': 0.0025214437}
+ {'class_name': 'economy_class', 'score': 0.6881968033}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749250907
+5,5,aec5e457-ac78-4e51-b864-bc9cc10ffa72,90,8,78,88,"[{'class_name': 'first_class', 'score': 0.8694173329}
+ {'class_name': 'business_class', 'score': 0.0434712618}
+ {'class_name': 'economy_class', 'score': 0.0871114053}]","[{'class_name': 'first_class', 'score': 1.0}]",1749277089
+6,6,389b57e5-4ab3-4f37-afaf-8380e053ea21,24,27,4,8,"[{'class_name': 'first_class', 'score': 0.5370025559}
+ {'class_name': 'business_class', 'score': 0.4586832104}
+ {'class_name': 'economy_class', 'score': 0.0043142337000000005}]","[{'class_name': 'business_class', 'score': 1.0}]",1749303270
+7,7,3cd93a8f-7e73-48c4-958a-80dd22f165e6,32,31,25,37,"[{'class_name': 'first_class', 'score': 0.2063128435}
+ {'class_name': 'business_class', 'score': 0.0582262248}
+ {'class_name': 'economy_class', 'score': 0.7354609317}]","[{'class_name': 'first_class', 'score': 1.0}]",1749329452
+8,8,7591614c-4b03-47f2-9cbe-ef7525a219c7,50,66,96,84,"[{'class_name': 'first_class', 'score': 0.1331221179}
+ {'class_name': 'business_class', 'score': 0.1338572542}
+ {'class_name': 'economy_class', 'score': 0.7330206279}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749355634
+9,9,d7195bdc-1410-45d9-9830-1e215600bd94,94,79,42,47,"[{'class_name': 'first_class', 'score': 0.5949676626}
+ {'class_name': 'business_class', 'score': 0.32673105890000004}
+ {'class_name': 'economy_class', 'score': 0.07830127840000001}]","[{'class_name': 'first_class', 'score': 1.0}]",1749381816
+10,10,e188e0e7-cf63-43c6-a09d-91deb931244f,19,44,26,60,"[{'class_name': 'first_class', 'score': 0.3849924286}
+ {'class_name': 'business_class', 'score': 0.056135333700000005}
+ {'class_name': 'economy_class', 'score': 0.5588722377}]","[{'class_name': 'first_class', 'score': 1.0}]",1749407998
+11,11,1a4f145f-5cf3-4389-b6ba-6c33ff85ccbe,49,9,21,28,"[{'class_name': 'first_class', 'score': 0.5379611251}
+ {'class_name': 'business_class', 'score': 0.4371923663}
+ {'class_name': 'economy_class', 'score': 0.0248465086}]","[{'class_name': 'business_class', 'score': 1.0}]",1749434179
+12,12,5399bf0d-227f-44e2-823c-47eb116059ff,58,32,28,0,"[{'class_name': 'first_class', 'score': 0.0832499786}
+ {'class_name': 'business_class', 'score': 0.0017887098}
+ {'class_name': 'economy_class', 'score': 0.9149613117}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749460361
+13,13,cb177ea8-7c97-4cb4-a4d2-edaa6c808e2e,38,79,63,70,"[{'class_name': 'first_class', 'score': 0.6637490302}
+ {'class_name': 'business_class', 'score': 0.12644744260000002}
+ {'class_name': 'economy_class', 'score': 0.2098035272}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749486543
+14,14,e6c23fa0-dcd0-4bfe-a6c0-e51a2b858601,20,87,92,45,"[{'class_name': 'first_class', 'score': 0.063670214}
+ {'class_name': 'business_class', 'score': 0.6571058461}
+ {'class_name': 'economy_class', 'score': 0.2792239399}]","[{'class_name': 'business_class', 'score': 1.0}]",1749512725
+15,15,35a6dd5d-3027-48f9-b40d-ddfafecffcda,24,80,44,95,"[{'class_name': 'first_class', 'score': 0.058977558000000006}
+ {'class_name': 'business_class', 'score': 0.2465742637}
+ {'class_name': 'economy_class', 'score': 0.6944481782}]","[{'class_name': 'first_class', 'score': 1.0}]",1749538907
+16,16,4380c777-3bf6-4553-8df4-a5eda1863a9e,20,81,16,82,"[{'class_name': 'first_class', 'score': 0.28794876680000003}
+ {'class_name': 'business_class', 'score': 0.7066940203000001}
+ {'class_name': 'economy_class', 'score': 0.0053572129}]","[{'class_name': 'first_class', 'score': 1.0}]",1749565089
+17,17,1cdf41ce-2372-499a-8909-eb88b353927a,87,14,54,54,"[{'class_name': 'first_class', 'score': 0.5479540015000001}
+ {'class_name': 'business_class', 'score': 0.1972461602}
+ {'class_name': 'economy_class', 'score': 0.2547998383}]","[{'class_name': 'business_class', 'score': 1.0}]",1749591270
+18,18,51eee714-67fc-48eb-b8a3-25b735a9c7ab,9,84,65,66,"[{'class_name': 'first_class', 'score': 0.006070318700000001}
+ {'class_name': 'business_class', 'score': 0.1830331958}
+ {'class_name': 'economy_class', 'score': 0.8108964856}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749617452
+19,19,a7bfe006-ff1b-4532-a78d-7c9ef84c09f3,29,41,50,68,"[{'class_name': 'first_class', 'score': 0.3451017952}
+ {'class_name': 'business_class', 'score': 0.1358446575}
+ {'class_name': 'economy_class', 'score': 0.5190535473}]","[{'class_name': 'business_class', 'score': 1.0}]",1749643634
+20,20,075708f4-f46a-43ad-be4b-e10c602058f9,68,11,66,23,"[{'class_name': 'first_class', 'score': 0.6699846087}
+ {'class_name': 'business_class', 'score': 0.2567463507}
+ {'class_name': 'economy_class', 'score': 0.0732690406}]","[{'class_name': 'business_class', 'score': 1.0}]",1749669816
+21,21,461883fa-7daf-40b8-92a1-8d51729c7dd1,97,91,68,27,"[{'class_name': 'first_class', 'score': 0.17143439470000002}
+ {'class_name': 'business_class', 'score': 0.2791918747}
+ {'class_name': 'economy_class', 'score': 0.5493737306}]","[{'class_name': 'first_class', 'score': 1.0}]",1749695998
+22,22,70345e16-ff8a-4060-aee0-ac1fe865894b,65,71,40,46,"[{'class_name': 'first_class', 'score': 0.3145822763}
+ {'class_name': 'business_class', 'score': 0.6440478639}
+ {'class_name': 'economy_class', 'score': 0.0413698598}]","[{'class_name': 'business_class', 'score': 1.0}]",1749722179
+23,23,21eeca21-cffe-4867-a24a-7f1e51b02a16,63,72,14,38,"[{'class_name': 'first_class', 'score': 0.1690988826}
+ {'class_name': 'business_class', 'score': 0.4252422214}
+ {'class_name': 'economy_class', 'score': 0.4056588960000001}]","[{'class_name': 'first_class', 'score': 1.0}]",1749748361
+24,24,8cc6f2b2-4b09-4412-800a-041fe1c0cd8b,48,98,15,64,"[{'class_name': 'first_class', 'score': 0.14371096360000002}
+ {'class_name': 'business_class', 'score': 0.5497091739000001}
+ {'class_name': 'economy_class', 'score': 0.3065798625}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749774543
+25,25,15662cf0-a88b-4399-9f1b-b73cb6b1c5b0,84,18,36,63,"[{'class_name': 'first_class', 'score': 0.3219159182}
+ {'class_name': 'business_class', 'score': 0.3629090874}
+ {'class_name': 'economy_class', 'score': 0.3151749943}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749800725
+26,26,add4376f-8e1b-406e-8bd5-4d88e6f428f6,18,32,54,6,"[{'class_name': 'first_class', 'score': 0.4480670217}
+ {'class_name': 'business_class', 'score': 0.347753401}
+ {'class_name': 'economy_class', 'score': 0.2041795773}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749826907
+27,27,fbbb4a5f-77ca-436c-8a6a-7bb8d46761dc,30,63,91,28,"[{'class_name': 'first_class', 'score': 0.0240739274}
+ {'class_name': 'business_class', 'score': 0.0009536997}
+ {'class_name': 'economy_class', 'score': 0.9749723729}]","[{'class_name': 'first_class', 'score': 1.0}]",1749853089
+28,28,14a8cf3d-de09-469b-b44f-b6b83984aaee,91,13,46,25,"[{'class_name': 'first_class', 'score': 0.7652912434}
+ {'class_name': 'business_class', 'score': 0.2270047281}
+ {'class_name': 'economy_class', 'score': 0.0077040285}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749879270
+29,29,e2153529-74e5-46a8-8f3c-f0da8ba10142,65,59,35,45,"[{'class_name': 'first_class', 'score': 0.0538763999}
+ {'class_name': 'business_class', 'score': 0.1525706869}
+ {'class_name': 'economy_class', 'score': 0.7935529132}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749905452
+30,30,828ade23-6581-40ca-959b-15caf29c0002,87,41,63,75,"[{'class_name': 'first_class', 'score': 0.2873736099}
+ {'class_name': 'business_class', 'score': 0.6542480703}
+ {'class_name': 'economy_class', 'score': 0.0583783199}]","[{'class_name': 'business_class', 'score': 1.0}]",1749931634
+31,31,fac72b0c-8bd7-478c-9654-ed9daf347f57,19,31,19,58,"[{'class_name': 'first_class', 'score': 0.4328173936}
+ {'class_name': 'business_class', 'score': 0.1999229037}
+ {'class_name': 'economy_class', 'score': 0.3672597027}]","[{'class_name': 'economy_class', 'score': 1.0}]",1749957816
+32,32,59858750-da80-4f30-8148-9a5b37e967b7,97,39,19,76,"[{'class_name': 'first_class', 'score': 0.1859083871}
+ {'class_name': 'business_class', 'score': 0.7811630606000001}
+ {'class_name': 'economy_class', 'score': 0.032928552300000004}]","[{'class_name': 'business_class', 'score': 1.0}]",1749983998
+33,33,1f103c08-80f8-48cf-8cce-1c1655083ebf,56,10,2,76,"[{'class_name': 'first_class', 'score': 0.4479327335}
+ {'class_name': 'business_class', 'score': 0.0363018861}
+ {'class_name': 'economy_class', 'score': 0.5157653803}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750010179
+34,34,8ba65cef-9ea8-4335-85ca-3416b34dd2c1,58,80,44,55,"[{'class_name': 'first_class', 'score': 0.2911363481}
+ {'class_name': 'business_class', 'score': 0.3266128446}
+ {'class_name': 'economy_class', 'score': 0.3822508073}]","[{'class_name': 'first_class', 'score': 1.0}]",1750036361
+35,35,8a3fbd3b-ff31-490a-91f2-2ddcb857ed1c,46,97,5,82,"[{'class_name': 'first_class', 'score': 0.16334967390000002}
+ {'class_name': 'business_class', 'score': 0.1528983627}
+ {'class_name': 'economy_class', 'score': 0.6837519634}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750062543
+36,36,3b9ad35c-a6af-435f-b7c4-c676b54f70bd,32,96,73,67,"[{'class_name': 'first_class', 'score': 0.1559126127}
+ {'class_name': 'business_class', 'score': 0.0765654734}
+ {'class_name': 'economy_class', 'score': 0.7675219139}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750088725
+37,37,4cdc9808-85da-4032-82ac-2958f936ff26,69,89,52,70,"[{'class_name': 'first_class', 'score': 0.1302061159}
+ {'class_name': 'business_class', 'score': 0.4041860821}
+ {'class_name': 'economy_class', 'score': 0.465607802}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750114907
+38,38,a90c7edb-ae79-4c82-b456-a392ba1d99b3,62,66,3,82,"[{'class_name': 'first_class', 'score': 0.1601728376}
+ {'class_name': 'business_class', 'score': 0.35614746950000004}
+ {'class_name': 'economy_class', 'score': 0.4836796929}]","[{'class_name': 'business_class', 'score': 1.0}]",1750141089
+39,39,6d0f2a4e-c63f-4d21-bec9-d2118ef39739,58,33,83,56,"[{'class_name': 'first_class', 'score': 0.8651539309}
+ {'class_name': 'business_class', 'score': 0.1064856399}
+ {'class_name': 'economy_class', 'score': 0.0283604293}]","[{'class_name': 'business_class', 'score': 1.0}]",1750167270
+40,40,eda01b58-5cfa-4a4d-9eda-efd5ed7793b4,17,51,96,63,"[{'class_name': 'first_class', 'score': 0.3062847296}
+ {'class_name': 'business_class', 'score': 0.29564838660000003}
+ {'class_name': 'economy_class', 'score': 0.3980668838}]","[{'class_name': 'first_class', 'score': 1.0}]",1750193452
+41,41,0ce04c08-b404-4de9-bba2-362abf665208,11,56,63,42,"[{'class_name': 'first_class', 'score': 0.30218217540000003}
+ {'class_name': 'business_class', 'score': 0.2147062623}
+ {'class_name': 'economy_class', 'score': 0.4831115623}]","[{'class_name': 'first_class', 'score': 1.0}]",1750219634
+42,42,5c2cce83-7686-44e8-8703-62c009bd3e62,2,88,81,6,"[{'class_name': 'first_class', 'score': 0.4559681499}
+ {'class_name': 'business_class', 'score': 0.3459050765}
+ {'class_name': 'economy_class', 'score': 0.1981267736}]","[{'class_name': 'business_class', 'score': 1.0}]",1750245816
+43,43,6a2a3749-a93e-4776-bcc6-300e7d9d98d2,37,26,9,75,"[{'class_name': 'first_class', 'score': 0.0174091969}
+ {'class_name': 'business_class', 'score': 0.8772288894}
+ {'class_name': 'economy_class', 'score': 0.1053619137}]","[{'class_name': 'first_class', 'score': 1.0}]",1750271998
+44,44,0d621899-832f-40a8-b5a4-52fb9c4ca25d,65,0,72,30,"[{'class_name': 'first_class', 'score': 0.4075703766}
+ {'class_name': 'business_class', 'score': 0.15366814110000002}
+ {'class_name': 'economy_class', 'score': 0.4387614824}]","[{'class_name': 'first_class', 'score': 1.0}]",1750298179
+45,45,f8ae78c4-938e-42f9-9489-aaedd27dc7c5,70,92,41,37,"[{'class_name': 'first_class', 'score': 0.6138771939000001}
+ {'class_name': 'business_class', 'score': 0.06910347260000001}
+ {'class_name': 'economy_class', 'score': 0.3170193335}]","[{'class_name': 'business_class', 'score': 1.0}]",1750324361
+46,46,bf15be82-931f-4bcf-8118-58435f8a452c,25,26,33,13,"[{'class_name': 'first_class', 'score': 0.047560240100000005}
+ {'class_name': 'business_class', 'score': 0.3815346917}
+ {'class_name': 'economy_class', 'score': 0.5709050681}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750350543
+47,47,81cb74fc-761b-4957-8705-c527c03948d0,2,52,88,60,"[{'class_name': 'first_class', 'score': 0.1762278424}
+ {'class_name': 'business_class', 'score': 0.7712740099000001}
+ {'class_name': 'economy_class', 'score': 0.0524981477}]","[{'class_name': 'business_class', 'score': 1.0}]",1750376725
+48,48,c96c0e84-271e-4e47-be9e-4ebaf6973933,81,12,43,3,"[{'class_name': 'first_class', 'score': 0.08405969940000001}
+ {'class_name': 'business_class', 'score': 0.1140808208}
+ {'class_name': 'economy_class', 'score': 0.8018594798}]","[{'class_name': 'first_class', 'score': 1.0}]",1750402907
+49,49,8db956cf-9bec-4a34-8fad-9af9be01742a,49,55,95,12,"[{'class_name': 'first_class', 'score': 0.16766517490000002}
+ {'class_name': 'business_class', 'score': 0.2786585666}
+ {'class_name': 'economy_class', 'score': 0.5536762586}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750429089
+50,50,b61c3fcd-7572-4434-927c-b8e208480b46,37,57,44,21,"[{'class_name': 'first_class', 'score': 0.3226091864}
+ {'class_name': 'business_class', 'score': 0.0639972546}
+ {'class_name': 'economy_class', 'score': 0.613393559}]","[{'class_name': 'first_class', 'score': 1.0}]",1750455270
+51,51,e884573e-7c50-4153-a5e3-2cbcff785db9,4,34,93,96,"[{'class_name': 'first_class', 'score': 0.3807140819}
+ {'class_name': 'business_class', 'score': 0.2448845204}
+ {'class_name': 'economy_class', 'score': 0.3744013977}]","[{'class_name': 'first_class', 'score': 1.0}]",1750481452
+52,52,5769e7a5-349e-4ffa-8cf8-58a136c431c6,62,11,74,36,"[{'class_name': 'first_class', 'score': 0.22141268600000005}
+ {'class_name': 'business_class', 'score': 0.1725467136}
+ {'class_name': 'economy_class', 'score': 0.6060406004000001}]","[{'class_name': 'business_class', 'score': 1.0}]",1750507634
+53,53,6d2d8d8d-8f44-4986-b2c3-8ea99f5c5e5f,52,52,19,15,"[{'class_name': 'first_class', 'score': 0.3570780119}
+ {'class_name': 'business_class', 'score': 0.0737289596}
+ {'class_name': 'economy_class', 'score': 0.5691930285}]","[{'class_name': 'business_class', 'score': 1.0}]",1750533816
+54,54,b9880623-8c3d-4f6b-a185-2bb401e9b526,86,25,42,62,"[{'class_name': 'first_class', 'score': 0.2829838544}
+ {'class_name': 'business_class', 'score': 0.3974277188}
+ {'class_name': 'economy_class', 'score': 0.3195884268}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750559998
+55,55,48caf411-cffe-47c6-a12e-b174da4c2635,53,7,15,66,"[{'class_name': 'first_class', 'score': 0.3153237277}
+ {'class_name': 'business_class', 'score': 0.08370411100000001}
+ {'class_name': 'economy_class', 'score': 0.6009721613}]","[{'class_name': 'business_class', 'score': 1.0}]",1750586179
+56,56,d7cad85a-0877-4463-bb23-73e47b12c216,54,14,65,12,"[{'class_name': 'first_class', 'score': 0.1431630615}
+ {'class_name': 'business_class', 'score': 0.2925332223}
+ {'class_name': 'economy_class', 'score': 0.5643037162}]","[{'class_name': 'first_class', 'score': 1.0}]",1750612361
+57,57,b82c2ec1-fe5d-47ed-8294-a2c01814c2cb,91,19,9,38,"[{'class_name': 'first_class', 'score': 0.8902497982}
+ {'class_name': 'business_class', 'score': 0.0715310341}
+ {'class_name': 'economy_class', 'score': 0.0382191677}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750638543
+58,58,abd9dc3c-2acd-4fc8-8a69-1d721d5ee129,75,48,79,24,"[{'class_name': 'first_class', 'score': 0.7056716231}
+ {'class_name': 'business_class', 'score': 0.1060630932}
+ {'class_name': 'economy_class', 'score': 0.1882652837}]","[{'class_name': 'first_class', 'score': 1.0}]",1750664725
+59,59,fb2267cd-2d5e-4937-b625-1b3bd978480b,52,27,84,24,"[{'class_name': 'first_class', 'score': 0.4172757541}
+ {'class_name': 'business_class', 'score': 0.0303587467}
+ {'class_name': 'economy_class', 'score': 0.5523654992}]","[{'class_name': 'business_class', 'score': 1.0}]",1750690907
+60,60,1748d745-cc5d-4219-8f89-3e96ded54069,8,61,42,83,"[{'class_name': 'first_class', 'score': 0.0823279096}
+ {'class_name': 'business_class', 'score': 0.4152726551}
+ {'class_name': 'economy_class', 'score': 0.5023994353}]","[{'class_name': 'first_class', 'score': 1.0}]",1750717089
+61,61,90c3933d-bd9f-4b13-b5d8-fba35b9af0c1,53,78,47,47,"[{'class_name': 'first_class', 'score': 0.0887339575}
+ {'class_name': 'business_class', 'score': 0.7004481143}
+ {'class_name': 'economy_class', 'score': 0.2108179282}]","[{'class_name': 'business_class', 'score': 1.0}]",1750743270
+62,62,ed44deb8-9da1-444c-8471-f7e1c1301a3a,47,11,51,46,"[{'class_name': 'first_class', 'score': 0.0722065925}
+ {'class_name': 'business_class', 'score': 0.2856446603}
+ {'class_name': 'economy_class', 'score': 0.6421487471}]","[{'class_name': 'economy_class', 'score': 1.0}]",1750769452
+63,63,d8723d33-dc52-4afc-9b99-fb8226dee0a9,42,48,47,20,"[{'class_name': 'first_class', 'score': 0.3671486457}
+ {'class_name': 'business_class', 'score': 0.17739926150000002}
+ {'class_name': 'economy_class', 'score': 0.4554520929}]","[{'class_name': 'business_class', 'score': 1.0}]",1750795634
+64,64,e2e62350-de1a-48cb-be36-e69b6ad03741,73,14,31,37,"[{'class_name': 'first_class', 'score': 0.7137411494}
+ {'class_name': 'business_class', 'score': 0.2359374076}
+ {'class_name': 'economy_class', 'score': 0.050321443}]","[{'class_name': 'business_class', 'score': 1.0}]",1750821816
+65,65,5fc34cd0-2fd8-49ac-8359-85cb72494236,36,68,31,19,"[{'class_name': 'first_class', 'score': 0.3665978865}
+ {'class_name': 'business_class', 'score': 0.2945778821}
+ {'class_name': 'economy_class', 'score': 0.3388242315}]","[{'class_name': 'first_class', 'score': 1.0}]",1750847998
+66,66,5b45f863-027b-46b9-9ff5-1352032fa93c,76,79,6,71,"[{'class_name': 'first_class', 'score': 0.1137374389}
+ {'class_name': 'business_class', 'score': 0.3192826305}
+ {'class_name': 'economy_class', 'score': 0.5669799306000001}]","[{'class_name': 'business_class', 'score': 1.0}]",1750874179
+67,67,00f2226b-1c80-485b-9c7b-84f9d5e7017f,87,3,31,65,"[{'class_name': 'first_class', 'score': 0.0279302244}
+ {'class_name': 'business_class', 'score': 0.6094527779000001}
+ {'class_name': 'economy_class', 'score': 0.3626169976}]","[{'class_name': 'business_class', 'score': 1.0}]",1750900361
+68,68,21b15703-bace-4821-b15b-ca137bbc0f81,83,56,49,91,"[{'class_name': 'first_class', 'score': 0.6912572542000001}
+ {'class_name': 'business_class', 'score': 0.1774095659}
+ {'class_name': 'economy_class', 'score': 0.1313331799}]","[{'class_name': 'business_class', 'score': 1.0}]",1750926543
+69,69,4bee6007-da5a-4bbb-af5c-679e857d4c67,50,82,65,78,"[{'class_name': 'first_class', 'score': 0.35470950370000004}
+ {'class_name': 'business_class', 'score': 0.643462344}
+ {'class_name': 'economy_class', 'score': 0.0018281523}]","[{'class_name': 'business_class', 'score': 1.0}]",1750952725
+70,70,8d8f8de0-8787-4f96-8e34-ee66ece439b0,72,33,69,79,"[{'class_name': 'first_class', 'score': 0.8185886171000001}
+ {'class_name': 'business_class', 'score': 0.1079876844}
+ {'class_name': 'economy_class', 'score': 0.07342369850000001}]","[{'class_name': 'first_class', 'score': 1.0}]",1750978907
+71,71,f836d53e-aea8-4ee8-9d56-970e6957757f,57,0,33,24,"[{'class_name': 'first_class', 'score': 0.8621602682}
+ {'class_name': 'business_class', 'score': 0.0289060845}
+ {'class_name': 'economy_class', 'score': 0.1089336473}]","[{'class_name': 'business_class', 'score': 1.0}]",1751005089
+72,72,7310acac-37da-4840-bfc0-1deb9831f843,28,6,94,42,"[{'class_name': 'first_class', 'score': 0.1771281925}
+ {'class_name': 'business_class', 'score': 0.4218377242}
+ {'class_name': 'economy_class', 'score': 0.4010340833}]","[{'class_name': 'business_class', 'score': 1.0}]",1751031270
+73,73,4d51c394-e6ff-4c33-96b0-fb4e831703f7,69,65,29,98,"[{'class_name': 'first_class', 'score': 0.157866575}
+ {'class_name': 'business_class', 'score': 0.2346368361}
+ {'class_name': 'economy_class', 'score': 0.6074965889}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751057452
+74,74,3e75fca0-321a-44e0-a5f6-2b397614e7bf,2,14,73,15,"[{'class_name': 'first_class', 'score': 0.0006715167000000001}
+ {'class_name': 'business_class', 'score': 0.6932694866}
+ {'class_name': 'economy_class', 'score': 0.30605899670000003}]","[{'class_name': 'business_class', 'score': 1.0}]",1751083634
+75,75,9e886850-8c72-49bd-8daf-3925b053fa0f,15,33,12,86,"[{'class_name': 'first_class', 'score': 0.3161773135}
+ {'class_name': 'business_class', 'score': 0.5611616108}
+ {'class_name': 'economy_class', 'score': 0.1226610757}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751109816
+76,76,c9d861ef-c14c-403b-94f9-6062a71045f6,18,12,51,89,"[{'class_name': 'first_class', 'score': 0.5817993678}
+ {'class_name': 'business_class', 'score': 0.32610400770000003}
+ {'class_name': 'economy_class', 'score': 0.0920966245}]","[{'class_name': 'business_class', 'score': 1.0}]",1751135998
+77,77,ec02d73c-d49d-4fdb-bd42-1ddb3575d259,15,34,89,69,"[{'class_name': 'first_class', 'score': 0.14738812340000002}
+ {'class_name': 'business_class', 'score': 0.6485955735000001}
+ {'class_name': 'economy_class', 'score': 0.204016303}]","[{'class_name': 'first_class', 'score': 1.0}]",1751162179
+78,78,72e8e6d4-8de9-4a54-8ad5-e72a5591b866,64,23,34,59,"[{'class_name': 'first_class', 'score': 0.2930730445}
+ {'class_name': 'business_class', 'score': 0.4628757979}
+ {'class_name': 'economy_class', 'score': 0.2440511576}]","[{'class_name': 'first_class', 'score': 1.0}]",1751188361
+79,79,18f66395-37d8-4382-a842-df8e3894346a,38,60,95,27,"[{'class_name': 'first_class', 'score': 0.3910151966}
+ {'class_name': 'business_class', 'score': 0.4425889707}
+ {'class_name': 'economy_class', 'score': 0.1663958327}]","[{'class_name': 'first_class', 'score': 1.0}]",1751214543
+80,80,ec424c2a-e859-44cd-b5f9-fe7915940c43,18,96,12,25,"[{'class_name': 'first_class', 'score': 0.6465326728}
+ {'class_name': 'business_class', 'score': 0.1651881899}
+ {'class_name': 'economy_class', 'score': 0.1882791373}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751240725
+81,81,79b124b7-f165-4066-adc4-d19b469927aa,88,34,12,13,"[{'class_name': 'first_class', 'score': 0.3248644442}
+ {'class_name': 'business_class', 'score': 0.6051953502}
+ {'class_name': 'economy_class', 'score': 0.0699402056}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751266907
+82,82,61ec9d85-355e-4648-8ba9-f3cbe7d5e68a,75,99,33,94,"[{'class_name': 'first_class', 'score': 0.1031982196}
+ {'class_name': 'business_class', 'score': 0.5436062978}
+ {'class_name': 'economy_class', 'score': 0.3531954826}]","[{'class_name': 'business_class', 'score': 1.0}]",1751293089
+83,83,f3feb854-0cd8-4e7a-a227-74c10bc54ec5,33,68,42,44,"[{'class_name': 'first_class', 'score': 0.3669825186}
+ {'class_name': 'business_class', 'score': 0.4490607767}
+ {'class_name': 'economy_class', 'score': 0.1839567047}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751319270
+84,84,60dd0a44-57e6-4842-ad0f-598e8b7286fa,89,22,89,26,"[{'class_name': 'first_class', 'score': 0.722903268}
+ {'class_name': 'business_class', 'score': 0.0678727516}
+ {'class_name': 'economy_class', 'score': 0.2092239804}]","[{'class_name': 'business_class', 'score': 1.0}]",1751345452
+85,85,eb448589-9da0-429c-9aff-b6c735ba8eec,79,54,41,18,"[{'class_name': 'first_class', 'score': 0.2308791787}
+ {'class_name': 'business_class', 'score': 0.1325419821}
+ {'class_name': 'economy_class', 'score': 0.6365788393}]","[{'class_name': 'business_class', 'score': 1.0}]",1751371634
+86,86,76de37ae-37c2-4a9e-8c44-432f8bfe3bae,67,53,93,84,"[{'class_name': 'first_class', 'score': 0.0653035378}
+ {'class_name': 'business_class', 'score': 0.5058830216}
+ {'class_name': 'economy_class', 'score': 0.4288134407}]","[{'class_name': 'business_class', 'score': 1.0}]",1751397816
+87,87,6456c406-f3d8-46bd-bcd1-e8dc78a267a0,86,28,79,6,"[{'class_name': 'first_class', 'score': 0.30697123460000003}
+ {'class_name': 'business_class', 'score': 0.2248225976}
+ {'class_name': 'economy_class', 'score': 0.4682061678}]","[{'class_name': 'business_class', 'score': 1.0}]",1751423998
+88,88,4d0de6ae-1cab-4077-9ed9-6a96594f2f0a,0,38,14,48,"[{'class_name': 'first_class', 'score': 0.3355282614}
+ {'class_name': 'business_class', 'score': 0.3018701406}
+ {'class_name': 'economy_class', 'score': 0.362601598}]","[{'class_name': 'first_class', 'score': 1.0}]",1751450179
+89,89,e6cf78ec-854f-42a1-9c82-413fbfa2dfdc,52,83,18,82,"[{'class_name': 'first_class', 'score': 0.3634537769}
+ {'class_name': 'business_class', 'score': 0.3674950542}
+ {'class_name': 'economy_class', 'score': 0.2690511689}]","[{'class_name': 'first_class', 'score': 1.0}]",1751476361
+90,90,b0347b72-6830-4315-9a1e-85cfb1347942,59,71,83,20,"[{'class_name': 'first_class', 'score': 0.4842123001}
+ {'class_name': 'business_class', 'score': 0.4815002584}
+ {'class_name': 'economy_class', 'score': 0.0342874415}]","[{'class_name': 'first_class', 'score': 1.0}]",1751502543
+91,91,c68bd24b-ab05-4075-afbb-32b5db894baf,82,55,42,80,"[{'class_name': 'first_class', 'score': 0.0851668926}
+ {'class_name': 'business_class', 'score': 0.8395980654}
+ {'class_name': 'economy_class', 'score': 0.075235042}]","[{'class_name': 'first_class', 'score': 1.0}]",1751528725
+92,92,19f70b28-bdce-4f03-a6e0-9067d35fd1ef,32,65,62,35,"[{'class_name': 'first_class', 'score': 0.1209008458}
+ {'class_name': 'business_class', 'score': 0.017173569700000002}
+ {'class_name': 'economy_class', 'score': 0.8619255845}]","[{'class_name': 'first_class', 'score': 1.0}]",1751554907
+93,93,28c405ec-0d1d-4d13-bc72-7e3d06815c03,79,37,56,22,"[{'class_name': 'first_class', 'score': 0.8632929372}
+ {'class_name': 'business_class', 'score': 0.0425359072}
+ {'class_name': 'economy_class', 'score': 0.0941711557}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751581089
+94,94,992bee6e-0df4-4f45-8690-cdb3aab4ef3b,15,94,23,6,"[{'class_name': 'first_class', 'score': 0.5705710002000001}
+ {'class_name': 'business_class', 'score': 0.0630622253}
+ {'class_name': 'economy_class', 'score': 0.3663667746}]","[{'class_name': 'business_class', 'score': 1.0}]",1751607270
+95,95,9f426701-9e7a-4af1-8958-542425f2334d,56,1,6,57,"[{'class_name': 'first_class', 'score': 0.5511358590000001}
+ {'class_name': 'business_class', 'score': 0.1070138802}
+ {'class_name': 'economy_class', 'score': 0.3418502608}]","[{'class_name': 'first_class', 'score': 1.0}]",1751633452
+96,96,a3223624-39ff-41c6-b310-7a6c11a4df9f,35,96,57,98,"[{'class_name': 'first_class', 'score': 0.9334143712}
+ {'class_name': 'business_class', 'score': 0.0284197726}
+ {'class_name': 'economy_class', 'score': 0.0381658562}]","[{'class_name': 'first_class', 'score': 1.0}]",1751659634
+97,97,8cd7f487-85f1-4a18-b300-1c5521ec6c64,82,65,91,19,"[{'class_name': 'first_class', 'score': 0.8122790744}
+ {'class_name': 'business_class', 'score': 0.1204044012}
+ {'class_name': 'economy_class', 'score': 0.06731652440000001}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751685816
+98,98,b27c3d89-0c82-41b2-bdd7-621e02841f10,48,80,93,84,"[{'class_name': 'first_class', 'score': 0.4054582199}
+ {'class_name': 'business_class', 'score': 0.31173828530000003}
+ {'class_name': 'economy_class', 'score': 0.2828034948}]","[{'class_name': 'first_class', 'score': 1.0}]",1751711998
+99,99,b5ed4b9b-93e0-4ae3-90c4-a3c8d22aa611,19,2,80,7,"[{'class_name': 'first_class', 'score': 0.2817043835}
+ {'class_name': 'business_class', 'score': 0.0435280833}
+ {'class_name': 'economy_class', 'score': 0.6747675332}]","[{'class_name': 'economy_class', 'score': 1.0}]",1751738179
